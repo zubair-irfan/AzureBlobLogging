@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  },
+  "AzureStorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=wsneptune;AccountKey=F4ESy610xDeUQ4ApNxwZc0OtV4SPr7JTC9dy/8UczPxK0UxpY/PI0o6RFnnjpuM+Ng7hV0x5m4zIVlDzGN43Fw==;BlobEndpoint=https://wsneptune.blob.core.windows.net/;QueueEndpoint=https://wsneptune.queue.core.windows.net/;TableEndpoint=https://wsneptune.table.core.windows.net/;FileEndpoint=https://wsneptune.file.core.windows.net/;"
+}
